@@ -1,0 +1,9 @@
+C:\Users\Şafak Şahin\Desktop\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Şafak Şahin\Desktop\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Şafak Şahin\Desktop\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Şafak Şahin\Desktop\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Şafak Şahin\Desktop\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Şafak Şahin\Desktop\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Şafak Şahin\Desktop\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
